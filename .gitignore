@@ -1,0 +1,89 @@
+# ── Environment & Secrets ──────────────────────────────
+.env
+.env.local
+.env.production
+*.env
+
+# ── Python ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ── Uploaded Files (user data) ─────────────────────────
+backend/uploads/resumes/*
+backend/uploads/reports/*
+# Keep the folder structure
+!backend/uploads/resumes/.gitkeep
+!backend/uploads/reports/.gitkeep
+
+# ── ML Models (large files) ────────────────────────────
+backend/models/*.pkl
+backend/models/*.h5
+backend/models/*.pt
+backend/models/*.pth
+backend/models/*.bin
+
+# ── Database ───────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Node / Frontend ────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/build/
+.npm
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── IDE & Editor ───────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── OS ─────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# ── Logs ───────────────────────────────────────────────
+*.log
+logs/
+*.out
+
+# ── Testing ────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Misc ───────────────────────────────────────────────
+*.bak
+*.tmp
+*.temp
+*.cache
+.cache/

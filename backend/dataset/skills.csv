@@ -1,0 +1,163 @@
+skill,category,hot_technology,in_demand
+Python,Programming,Y,Y
+JavaScript,Programming,Y,Y
+TypeScript,Programming,Y,Y
+Java,Programming,N,Y
+C++,Programming,N,Y
+C#,Programming,N,Y
+Go,Programming,Y,Y
+Rust,Programming,Y,N
+PHP,Programming,N,Y
+Swift,Programming,N,Y
+Kotlin,Programming,Y,Y
+Ruby,Programming,N,N
+R,Programming,N,Y
+Scala,Programming,N,Y
+Dart,Programming,Y,Y
+HTML,Web,N,Y
+CSS,Web,N,Y
+React,Web,Y,Y
+Next.js,Web,Y,Y
+Vue.js,Web,Y,Y
+Angular,Web,N,Y
+Svelte,Web,Y,N
+Redux,Web,N,Y
+Tailwind CSS,Web,Y,Y
+Bootstrap,Web,N,Y
+Material UI,Web,N,Y
+Shadcn UI,Web,Y,N
+Node.js,Backend,Y,Y
+Express.js,Backend,N,Y
+FastAPI,Backend,Y,Y
+Django,Backend,N,Y
+Flask,Backend,N,Y
+Spring Boot,Backend,N,Y
+GraphQL,Backend,Y,Y
+REST API,Backend,N,Y
+WebSockets,Backend,N,Y
+gRPC,Backend,Y,N
+MongoDB,Database,Y,Y
+PostgreSQL,Database,Y,Y
+MySQL,Database,N,Y
+Redis,Database,Y,Y
+SQLite,Database,N,Y
+Firebase,Database,Y,Y
+Supabase,Database,Y,Y
+Elasticsearch,Database,Y,Y
+Cassandra,Database,N,Y
+DynamoDB,Database,Y,Y
+SQL,Database,N,Y
+NoSQL,Database,N,Y
+Docker,DevOps,Y,Y
+Kubernetes,DevOps,Y,Y
+AWS,Cloud,Y,Y
+Google Cloud,Cloud,Y,Y
+Azure,Cloud,Y,Y
+CI/CD,DevOps,Y,Y
+GitHub Actions,DevOps,Y,Y
+Jenkins,DevOps,N,Y
+Terraform,DevOps,Y,Y
+Linux,DevOps,N,Y
+Nginx,DevOps,N,Y
+Vercel,DevOps,Y,N
+Netlify,DevOps,Y,N
+Git,Tools,N,Y
+GitHub,Tools,N,Y
+VS Code,Tools,N,Y
+Postman,Tools,N,Y
+Figma,Tools,Y,Y
+Jira,Tools,N,Y
+Machine Learning,AI/ML,Y,Y
+Deep Learning,AI/ML,Y,Y
+TensorFlow,AI/ML,Y,Y
+PyTorch,AI/ML,Y,Y
+Scikit-learn,AI/ML,Y,Y
+Keras,AI/ML,N,Y
+OpenCV,AI/ML,Y,Y
+NLP,AI/ML,Y,Y
+Computer Vision,AI/ML,Y,Y
+Pandas,Data,Y,Y
+NumPy,Data,N,Y
+Matplotlib,Data,N,Y
+Seaborn,Data,N,Y
+Jupyter,Data,N,Y
+Tableau,Data,N,Y
+Power BI,Data,N,Y
+Apache Spark,Data,Y,Y
+Hadoop,Data,N,Y
+Data Analysis,Data,N,Y
+Data Visualization,Data,N,Y
+ETL,Data,N,Y
+LangChain,AI/ML,Y,Y
+OpenAI API,AI/ML,Y,Y
+Gemini API,AI/ML,Y,N
+Hugging Face,AI/ML,Y,Y
+Vector Database,AI/ML,Y,N
+RAG,AI/ML,Y,N
+LLM,AI/ML,Y,Y
+Prompt Engineering,AI/ML,Y,Y
+React Native,Mobile,Y,Y
+Flutter,Mobile,Y,Y
+Android,Mobile,N,Y
+iOS,Mobile,N,Y
+Expo,Mobile,Y,N
+Cybersecurity,Security,Y,Y
+Penetration Testing,Security,Y,Y
+OWASP,Security,N,Y
+Encryption,Security,N,Y
+JWT,Security,N,Y
+OAuth,Security,N,Y
+Blockchain,Web3,Y,N
+Solidity,Web3,Y,N
+Web3.js,Web3,Y,N
+Smart Contracts,Web3,Y,N
+Agile,Soft Skills,N,Y
+Scrum,Soft Skills,N,Y
+Problem Solving,Soft Skills,N,Y
+System Design,Architecture,Y,Y
+Microservices,Architecture,Y,Y
+API Design,Architecture,N,Y
+Data Structures,CS,N,Y
+Algorithms,CS,N,Y
+OOP,CS,N,Y
+Design Patterns,CS,N,Y
+Algorithms,CS,N,Y
+Statistics,Data,N,Y
+Mathematics,CS,N,Y
+Linear Algebra,CS,N,Y
+MLOps,AI/ML,Y,Y
+CUDA,AI/ML,Y,N
+Transformers,AI/ML,Y,Y
+BERT,AI/ML,Y,Y
+YOLO,AI/ML,Y,N
+Reinforcement Learning,AI/ML,Y,Y
+Feature Engineering,AI/ML,N,Y
+Model Deployment,AI/ML,Y,Y
+Recommendation Systems,AI/ML,Y,Y
+Time Series,Data,N,Y
+Regression,AI/ML,N,Y
+Classification,AI/ML,N,Y
+Clustering,AI/ML,N,Y
+Neural Networks,AI/ML,Y,Y
+Convolutional Neural Networks,AI/ML,Y,Y
+Recurrent Neural Networks,AI/ML,Y,Y
+Attention Mechanism,AI/ML,Y,N
+Fine Tuning,AI/ML,Y,Y
+Transfer Learning,AI/ML,Y,Y
+Data Preprocessing,Data,N,Y
+Data Cleaning,Data,N,Y
+Big Data,Data,Y,Y
+API Development,Backend,N,Y
+Microservices,Architecture,Y,Y
+Message Queue,Backend,N,Y
+Kafka,Backend,Y,Y
+RabbitMQ,Backend,N,Y
+Celery,Backend,N,Y
+Webpack,Web,N,Y
+Vite,Web,Y,N
+Jest,Tools,N,Y
+Pytest,Tools,N,Y
+Unit Testing,Tools,N,Y
+Bash,DevOps,N,Y
+Shell Script,DevOps,N,Y
+Networking,DevOps,N,Y

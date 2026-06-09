@@ -1,0 +1,36 @@
+soc_code,role,description
+15-1252,Software Engineer,Designs and develops software systems and applications using programming languages and engineering principles.
+15-1253,Software Quality Engineer,Tests and ensures software quality through automated and manual testing methodologies.
+15-1211,Frontend Developer,Builds user interfaces and client-side web applications using HTML CSS and JavaScript frameworks.
+15-1212,Backend Developer,Develops server-side logic APIs databases and business logic for web applications.
+15-1213,Full Stack Developer,Works across both frontend and backend developing complete web applications end to end.
+15-1214,MERN Stack Developer,Specializes in MongoDB Express React and Node.js for full stack JavaScript development.
+15-1221,Machine Learning Engineer,Designs and deploys machine learning models and pipelines for production AI systems.
+15-1222,Deep Learning Engineer,Builds neural networks and deep learning models for complex AI tasks like vision and NLP.
+15-1223,AI Engineer,Develops AI-powered applications using LLMs APIs and modern AI frameworks and tools.
+15-1224,NLP Engineer,Specializes in natural language processing building text analysis and language understanding systems.
+15-1225,Computer Vision Engineer,Develops systems that interpret and analyze visual data using deep learning and image processing.
+15-1226,LLM Engineer,Builds applications powered by large language models using RAG vector databases and prompt engineering.
+15-1231,Data Scientist,Analyzes complex datasets to extract insights build predictive models and drive data decisions.
+15-1232,Data Analyst,Collects processes and analyzes data to help organizations make informed business decisions.
+15-1233,Data Engineer,Builds and maintains data pipelines infrastructure and warehouses for large scale data processing.
+15-1241,DevOps Engineer,Bridges development and operations through automation CI/CD pipelines and infrastructure management.
+15-1242,Cloud Engineer,Designs and manages cloud infrastructure on AWS Azure or GCP for scalable applications.
+15-1243,Site Reliability Engineer,Ensures system reliability performance and availability using SRE principles and automation.
+15-1251,React Developer,Specializes in building modern web UIs with React ecosystem including Next.js Redux and TypeScript.
+15-1254,Node.js Developer,Builds scalable server-side applications and APIs using Node.js and the JavaScript ecosystem.
+15-1255,Python Developer,Develops applications APIs and automation scripts using Python and its extensive ecosystem.
+15-1256,Django Developer,Builds web applications using the Django framework with Python for rapid and secure development.
+15-1257,FastAPI Developer,Creates high-performance REST APIs using FastAPI and Python for modern backend services.
+15-1258,Java Developer,Develops enterprise applications and microservices using Java and Spring Boot framework.
+15-1261,Mobile Developer,Creates mobile applications for iOS and Android platforms using cross-platform or native tools.
+15-1262,React Native Developer,Builds cross-platform mobile apps using React Native and JavaScript for iOS and Android.
+15-1263,Flutter Developer,Develops cross-platform mobile applications using Flutter and Dart programming language.
+15-1264,Android Developer,Builds native Android applications using Kotlin or Java for the Android platform.
+15-1265,iOS Developer,Develops native iOS applications using Swift and Xcode for Apple devices.
+15-1271,Cybersecurity Engineer,Protects systems networks and applications from cyber threats through security engineering and testing.
+15-1272,Blockchain Developer,Builds decentralized applications and smart contracts on blockchain platforms like Ethereum.
+15-1281,UI/UX Developer,Designs and implements user interfaces with focus on user experience and modern design systems.
+15-1291,System Design Engineer,Architects large-scale distributed systems with focus on scalability reliability and performance.
+15-1292,Next.js Developer,Builds full-stack React applications using Next.js for SSR SSG and modern web development.
+15-1293,Vue.js Developer,Develops interactive web applications using Vue.js framework and its ecosystem.
