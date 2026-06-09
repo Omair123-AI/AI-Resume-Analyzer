@@ -104,8 +104,8 @@ AI-Resume-Analyzer/
 ## Setup & Installation
 
 ### 1. Configure Environment
-Edit `.env` in the root folder:
-```env
+Copy `.env.example` as `.env` and then Edit `.env` folder:
+```
 GEMINI_API_KEY=your-gemini-api-key
 OPENAI_API_KEY=your-openai-api-key
 GITHUB_TOKEN=your-github-personal-access-token
@@ -130,7 +130,7 @@ python app.py
 # Backend runs at http://localhost:5000
 ```
 
-### 4. Frontend Setup
+### 3. Frontend Setup
 ```bash
 cd frontend
 npm install
